@@ -39,5 +39,5 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SakshiKolis-CS&theme=algolia" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SakshiKoli-CS&theme=algolia" alt="GitHub Streak" /></a>
 </p>
